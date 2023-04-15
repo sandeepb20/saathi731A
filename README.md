@@ -2,8 +2,7 @@
 This is the repository for the ongoing project in the course cs731
 
 ## Instructions to Run
-1.	Clone the main branch from the GitHub Repository
-https://github.com/kuldeep-singh-chouhan/CS731_workspace.git
+1.	Clone the main branch from the Repository
 
 2.	Change the directory to CS731_workspace
 
